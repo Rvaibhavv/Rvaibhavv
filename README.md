@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Raj</h1>
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=350&pause=100&color=00CEF7&multiline=true&width=435&lines=Hi+%2C+I%E2%80%99m+Vaibhav+Raj+;+your+friendly+neighborhood+coder+;turning+caffeine+into+code+and+debugging+with+a+smile" alt="Typing SVG" style='height:125px' /></a>
+  </a>
+</h1>
+
 <h3 align="center"></h3>
 <h3 align="center">
   Passionate and driven ML and data science enthusiast with a strong foundation in statistics, programming, and machine learning algorithms. Eager to apply academic knowledge to real-world challenges, contribute innovative solutions, and leverage data-driven insights to make impactful contributions
-   <img src="githubprofile.gif" alt="" >
   </h3>
+  <h4>
+  <img src="githubprofile.gif" alt=""  ></h4>
 
 
 
