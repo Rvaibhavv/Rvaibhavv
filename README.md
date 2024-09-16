@@ -2,8 +2,9 @@
 <h3 align="center"></h3>
 <h3 align="center">
   Passionate and driven ML and data science enthusiast with a strong foundation in statistics, programming, and machine learning algorithms. Eager to apply academic knowledge to real-world challenges, contribute innovative solutions, and leverage data-driven insights to make impactful contributions
-   
+   <img src="githubprofile.gif" alt="" >
   </h3>
+
 
 
 # 💫 About Me:
